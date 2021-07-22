@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cursus/static/css/main.8f174e71.chunk.css",
+    "main.js": "/cursus/static/js/main.a51e796e.chunk.js",
+    "main.js.map": "/cursus/static/js/main.a51e796e.chunk.js.map",
+    "runtime-main.js": "/cursus/static/js/runtime-main.5acc0a80.js",
+    "runtime-main.js.map": "/cursus/static/js/runtime-main.5acc0a80.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/cursus/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.f5028858.chunk.js": "/cursus/static/js/2.f5028858.chunk.js",
+    "static/js/2.f5028858.chunk.js.map": "/cursus/static/js/2.f5028858.chunk.js.map",
+    "static/js/3.a2538d21.chunk.js": "/cursus/static/js/3.a2538d21.chunk.js",
+    "static/js/3.a2538d21.chunk.js.map": "/cursus/static/js/3.a2538d21.chunk.js.map",
+    "index.html": "/cursus/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/cursus/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.8f174e71.chunk.css.map": "/cursus/static/css/main.8f174e71.chunk.css.map",
+    "static/js/2.f5028858.chunk.js.LICENSE.txt": "/cursus/static/js/2.f5028858.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5acc0a80.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.f5028858.chunk.js",
+    "static/css/main.8f174e71.chunk.css",
+    "static/js/main.a51e796e.chunk.js"
+  ]
+}
